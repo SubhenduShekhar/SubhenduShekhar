@@ -3,9 +3,13 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@subhendushekhargupta)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/subhendushekhar1)
 
-Hey there 👋
+Hey there 👋,
 
-I’m Shubhendu, a test automation engineer, creative coder and self-proclaimed designer who specializes in test strategizing. Building automation scripts and dedploying it to CI-CD pipelines for multiple technology stack from legacy applicaion to modern technologies.
+Namaste 🙏
+
+I’m Shubhendu, a test automation solution architect, creative coder and self-proclaimed designer who specializes in test strategizing. AI implementation in testing, Image Processing are my key features.
+
+Email: subhendushekhargupta@gmail.com
 
 
 ## &#x1f4c8; GitHub Stats
