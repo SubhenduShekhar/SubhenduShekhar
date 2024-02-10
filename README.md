@@ -1,4 +1,4 @@
-<img src="https://github.com/SubhenduShekhar/SubhenduShekhar/blob/main/Shubhendu%20Shekhar%20gupta%20(1).png?raw=true">
+<img src="https://github.com/SubhenduShekhar/SubhenduShekhar/blob/main/Shubhendu%20Shekhar%20gupta.png?raw=true">
 
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@subhendushekhargupta)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/subhendushekhar1)
@@ -7,7 +7,7 @@ Hey there 👋,
 
 Namaste 🙏
 
-I’m Shubhendu, a test automation solution architect, creative coder and self-proclaimed designer who specializes in test strategizing. AI implementation in testing, Image Processing are my key features.
+I’m Shubhendu, a test automation engineer, creative coder and self-proclaimed designer who specializes in project strategizing and R&D. Creative solutioning in advanced technologies are my key features.
 
 Email: subhendushekhargupta@gmail.com
 
@@ -27,7 +27,7 @@ Email: subhendushekhargupta@gmail.com
 <br>
 <br>
 
-## 💼 Skills
+## &#128188; Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
@@ -65,6 +65,5 @@ Email: subhendushekhargupta@gmail.com
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
